@@ -25,16 +25,25 @@
   text-shadow: 0px 0px 15px black;
 }
 
-.titulo p{
-align-self: flex-end;
-}
-
 .galeria .foto:hover {
   box-shadow: 0px 0px 2px 1px black;
 }
 
 .galeria .foto svg {
   align-self: flex-end;
+}
+
+.galeria .fav {
+  padding: 10px 10px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: left;
+  text-shadow: 2px 2px 1px black;
 }
 
 .p-3 {

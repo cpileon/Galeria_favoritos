@@ -1,13 +1,14 @@
 body {
   margin: 0;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .App {
-  font-family: "Maitree", serif;
   text-align: center;
   color: #43a047;
 }
 
 h1 {
   margin-bottom: 0;
+  font-weight: 700;
 }
